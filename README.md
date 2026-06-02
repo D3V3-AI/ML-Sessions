@@ -24,7 +24,4 @@ ML-Sessions/
 │   │   ├── README.md
 │   │   ├── notebook.ipynb 
 │   │   └── assets/
-``├── lessons/        # (teoría condensada y rigurosa)
-├── playground/     # (plataforma práctica tipo "LeetCode para IA")
-└── README.md
 ```
