@@ -1,0 +1,34 @@
+// {
+//   // 🔠 Tamaño de fuente (CLAVE)
+//   "editor.fontSize": 16,
+//   "editor.lineHeight": 24,
+
+//   // 🧠 Fuente recomendada
+//   "editor.fontFamily": "'JetBrains Mono', 'Fira Code', monospace",
+//   "editor.fontLigatures": true,
+
+//   // 🎨 Cursor y espaciado
+//   "editor.cursorSmoothCaretAnimation": "on",
+//   "editor.cursorBlinking": "smooth",
+
+//   // 🧼 Limpieza visual
+//   "editor.minimap.enabled": false,
+//   "editor.renderLineHighlight": "none",
+//   "editor.guides.indentation": false,
+//   "editor.scrollbar.vertical": "hidden",
+//   "editor.scrollbar.horizontal": "hidden",
+
+//   // 🔢 Números de línea
+//   "editor.lineNumbers": "on",
+
+//   // 🧾 Padding (importante para que respire el código)
+//   "editor.padding.top": 20,
+//   "editor.padding.bottom": 20,
+
+//   // 🧩 Tabs
+//   "workbench.editor.showTabs": "none",
+//   "workbench.activityBar.autoHide": false,
+
+//   // 🔍 Zoom global (ajústalo si grabas en 1080p)
+//   "window.zoomLevel": 1.5
+// }
