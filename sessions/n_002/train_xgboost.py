@@ -72,7 +72,6 @@ numeric_features = X.select_dtypes(include=["int64", "float64"]).columns
 categorical_features = X.select_dtypes(include=["object"]).columns
 
 categorial_transformer = Pipeline([
-    
     ('onehot', OneHotEncoder(handle_unknown='ignore'))
 ])
 
